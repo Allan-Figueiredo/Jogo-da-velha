@@ -6,6 +6,8 @@ Ah, e vamos falar do visual desse joguinho? Desenvolvi um layout com HTML e CSS 
 E o mais legal: implementei uma lógica inteligente para determinar vitórias, derrotas e aqueles empates clássicos. Cada movimento é registrado e quando uma linha, coluna ou diagonal é preenchida pelo mesmo jogador, é hora de declarar a vitória! 🏆
 Então, se você está pronto para desafiar seus amigos (ou até mesmo a máquina) em uma batalha de jogo da velha. 💥🚀
 
+https://jogo-da-velha-nine-iota.vercel.app/
+
 ## Tecnologias utilizadas:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
